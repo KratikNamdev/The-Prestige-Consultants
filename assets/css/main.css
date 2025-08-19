@@ -11872,7 +11872,7 @@ body .ui-tooltip {
 .brand__thumb img {
   opacity: 1;
   width: auto;
-  height: 48px;
+  height: 100px;
 }
 
 @media (max-width: 1189px) {
